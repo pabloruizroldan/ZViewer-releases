@@ -5,7 +5,7 @@ another window, updated as you work, without ever touching your ZBrush
 camera: as a pure black silhouette or in clay, from up to four angles at once,
 with a reference image over it to line the silhouette up against.
 
-**[Download ZViewer 2.0.0](https://github.com/pabloruizroldan/ZViewer-releases/releases/latest)**
+**[Download ZViewer 2.0.1](https://github.com/pabloruizroldan/ZViewer-releases/releases/latest)**
 — free, for Windows and ZBrush 2025 or later. On ZBrush 2026 it uses the new
 Python scripting, which makes syncing much cheaper.
 
@@ -16,7 +16,7 @@ Python scripting, which makes syncing much cheaper.
 
 ## Install
 
-1. Download `ZViewer-2.0.0.zip` from the
+1. Download `ZViewer-2.0.1.zip` from the
    [latest release](https://github.com/pabloruizroldan/ZViewer-releases/releases/latest).
 2. Close ZBrush, extract the zip anywhere and double-click **`install.bat`**.
    It asks for administrator rights (for ZBrush 2025 the plugin goes into its
