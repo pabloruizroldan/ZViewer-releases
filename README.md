@@ -5,16 +5,23 @@ another window, updated as you work, without ever touching your ZBrush
 camera: as a pure black silhouette or in clay, from up to four angles at once,
 with a reference image over it to line the silhouette up against.
 
-**[Download ZViewer 1.0.1](https://github.com/pabloruizroldan/ZViewer-releases/releases/latest)**
-— free, for Windows and ZBrush 2025 or later.
+**[Download ZViewer 2.0.0](https://github.com/pabloruizroldan/ZViewer-releases/releases/latest)**
+— free, for Windows and ZBrush 2025 or later. On ZBrush 2026 it uses the new
+Python scripting, which makes syncing much cheaper.
+
+> **ZViewer is vibe coded:** written by an AI coding assistant (Claude, by
+> Anthropic) under my direction, and tested by me in ZBrush, but not written
+> or reviewed line by line by a professional programmer. Treat it as a hobby
+> tool and keep your usual saves.
 
 ## Install
 
-1. Download `ZViewer-1.0.1.zip` from the
+1. Download `ZViewer-2.0.0.zip` from the
    [latest release](https://github.com/pabloruizroldan/ZViewer-releases/releases/latest).
-2. Extract it anywhere and double-click **`install.bat`**. It asks for
-   administrator rights (the plugin goes into ZBrush's folder under Program
-   Files), finds your ZBrush and asks which one to install into.
+2. Close ZBrush, extract the zip anywhere and double-click **`install.bat`**.
+   It asks for administrator rights (for ZBrush 2025 the plugin goes into its
+   folder under Program Files), finds your ZBrush, asks which one to install
+   into, and installs the plugin that version needs.
 3. Start ZBrush. The palette is at **ZPlugin > ZViewer**: press
    **Open Viewer**.
 
